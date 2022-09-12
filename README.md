@@ -1,3 +1,3 @@
 # repositorioPractico1
 
-Editando el readme
+Edito el readme del repositorio
